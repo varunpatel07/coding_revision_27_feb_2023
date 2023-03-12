@@ -1,3 +1,6 @@
 Leetode: Revise
+Moore Majority Voting Algorithm-169
+Dutch National Flag Algorithm- 75
 36
 74
+15
